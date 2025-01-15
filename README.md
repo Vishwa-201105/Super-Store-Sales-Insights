@@ -46,3 +46,15 @@ Implemented forecasting to predict sales trends for the upcoming months based on
 Visualized forecast data alongside actual sales to evaluate performance.
 
 ## Pages
+
+![Screenshot 2025-01-15 153046](https://github.com/user-attachments/assets/60e7dce8-afaf-4d00-a76c-9276b0963a84)
+
+![Screenshot 2025-01-15 151808](https://github.com/user-attachments/assets/06b02895-5fa8-443c-8480-083221d32bdd)
+
+##   Insights
+
+1. Mostly, the customers pay cash on delivery rather than card or online payment.
+
+2. The contribution to the sales is mostly from West side of America.
+
+3. Even though the monthly sales in October is less compared to other months, it produces a higher profit.
